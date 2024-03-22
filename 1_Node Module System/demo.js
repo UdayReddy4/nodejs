@@ -1,0 +1,1 @@
+console.log("demo.js want get output");
