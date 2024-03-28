@@ -1,0 +1,14 @@
+{
+  "name": "scalercalc",
+  "version": "1.0.0",
+  "description": "This is a calcalitor moules during node codes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "uday",
+  "license": "ISC",
+  "dependencies": {
+    "user": "^0.0.0"
+  }
+}
